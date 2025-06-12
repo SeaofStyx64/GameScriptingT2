@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/Levels/Blank.umap",
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/Levels/help.umap",
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/Tank.uasset",
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/Bullet.uasset",
+				"C:/Users/16079/Documents/Unreal Projects/AwesomeSauceShmup/Content/Levels/Testsite.umap"
+			]
+		}
+	]
+}
